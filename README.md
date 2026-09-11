@@ -45,9 +45,9 @@ leetcode-solutions/
 
 | Difficulty |          Solved |
 | ---------- | --------------: |
-| 🟢 Easy    |     Updating... |
-| 🟡 Medium  |     Updating... |
-| 🔴 Hard    |     Updating... |
+| 🟢 Easy    |     55 |
+| 🟡 Medium  |     24 |
+| 🔴 Hard    |     1 |
 | **Total**  | **Updating...** |
 
 ## 🤝 Contributions
