@@ -45,7 +45,7 @@ leetcode-solutions/
 
 | Difficulty |          Solved |
 | ---------- | --------------: |
-| 🟢 Easy    |     55 |
+| 🟢 Easy    |     56 |
 | 🟡 Medium  |     24 |
 | 🔴 Hard    |     1 |
 | **Total**  | **Updating...** |
