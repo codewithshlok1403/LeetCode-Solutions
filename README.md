@@ -62,7 +62,7 @@ leetcode-solutions/
 |    🟢 Easy   |     56 |
 |   🟡 Medium  |     25 |
 |    🔴 Hard   |      1 |
-| **🔥 Total** | **8** |
+| **🔥 Total** | **82** |
 
 > 📌 Progress will be updated regularly as I solve more problems.
 
