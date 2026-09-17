@@ -72,7 +72,7 @@ leetcode-solutions/
 
 My current DSA goals are:
 
-* 🎯 Solve **300+ LeetCode problems**
+* 🎯 Solve **400+ LeetCode problems**
 * 🧠 Build strong DSA fundamentals
 * ⚡ Improve time & space complexity analysis
 * 💡 Develop better problem-solving skills
