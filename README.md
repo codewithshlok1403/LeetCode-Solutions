@@ -60,9 +60,9 @@ leetcode-solutions/
 |  Difficulty  | Solved |
 | :----------: | -----: |
 |    🟢 Easy   |     71 |
-|   🟡 Medium  |     36 |
+|   🟡 Medium  |     37 |
 |    🔴 Hard   |      4 |
-| **🔥 Total** | **111** |
+| **🔥 Total** | **112** |
 
 > 📌 Progress will be updated regularly as I solve more problems.
 
