@@ -1,4 +1,4 @@
-# 🚀 LeetCode Solutions —java
+# 🚀 LeetCode Solutions —JAVA
 
 Welcome to my **LeetCode Solutions** repository! 👋
 
