@@ -185,4 +185,4 @@ Currently focused on becoming a better problem solver and building strong fundam
 
 ### 🚀 Keep Coding. Keep Learning. Keep Improving.
 
-> **"Consistency is the key to mastering Data Structures & Algorithms."**
+> **"Consistency is the key to mastering Data Structures & Algorithms"**
