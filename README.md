@@ -59,10 +59,10 @@ leetcode-solutions/
 
 |  Difficulty  | Solved |
 | :----------: | -----: |
-|    🟢 Easy   |     79 |
+|    🟢 Easy   |     80 |
 |   🟡 Medium  |     37 |
 |    🔴 Hard   |      4 |
-| **🔥 Total** | **120** |
+| **🔥 Total** | **121** |
 
 > 📌 Progress will be updated regularly as I solve more problems.
 
