@@ -60,10 +60,10 @@ leetcode-solutions/
 
 |  Difficulty  | Solved |
 | :----------: | -----: |
-|    🟢 Easy   |     84 |
+|    🟢 Easy   |     86 |
 |   🟡 Medium  |     38 |
 |    🔴 Hard   |      4 |
-| **🔥 Total** | **126** |
+| **🔥 Total** | **128** |
 
 > 📌 Progress will be updated regularly as I solve more problems.
 
