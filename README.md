@@ -60,8 +60,8 @@ leetcode-solutions/
 
 |  Difficulty  | Solved |
 | :----------: | -----: |
-|    🟢 Easy   |     87 |
-|   🟡 Medium  |     38 |
+|    🟢 Easy   |     86 |
+|   🟡 Medium  |     39 |
 |    🔴 Hard   |      4 |
 | **🔥 Total** | **129** |
 
