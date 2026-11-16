@@ -61,9 +61,9 @@ leetcode-solutions/
 |  Difficulty  | Solved |
 | :----------: | -----: |
 |    🟢 Easy   |     86 |
-|   🟡 Medium  |     39 |
+|   🟡 Medium  |     40 |
 |    🔴 Hard   |      4 |
-| **🔥 Total** | **129** |
+| **🔥 Total** | **130** |
 
 > 📌 Progress will be updated regularly as I solve more problems.
 
