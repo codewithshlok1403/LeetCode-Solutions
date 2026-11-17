@@ -1,4 +1,4 @@
-# 🚀 LeetCode Solutions — 
+# 🚀 LeetCode Solutions — Java
 
 
 Welcome to my **LeetCode Solutions** repository! 👋
@@ -61,9 +61,9 @@ leetcode-solutions/
 |  Difficulty  | Solved |
 | :----------: | -----: |
 |    🟢 Easy   |     86 |
-|   🟡 Medium  |     40 |
+|   🟡 Medium  |     41 |
 |    🔴 Hard   |      4 |
-| **🔥 Total** | **130** |
+| **🔥 Total** | **131** |
 
 > 📌 Progress will be updated regularly as I solve more problems.
 
