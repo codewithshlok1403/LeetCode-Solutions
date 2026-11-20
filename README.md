@@ -1,24 +1,21 @@
- 
-<div align="center">
+ <div align="center">
 
-# 🚀 LEETCODE SOLUTIONS
+# 🚀 LeetCode Solutions
 
-### `Consistency • Logic • Optimization • Growth`
+### Java | Data Structures & Algorithms | Problem Solving
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Solving+Problems+in+Java+%E2%98%95;Learning+Data+Structures+%26+Algorithms;Building+Strong+Problem+Solving+Skills;One+Problem+at+a+Time+%F0%9F%94%A5" />
+<p>
+  <a href="https://leetcode.com/u/codewithshlok1403/">
+    <img src="https://img.shields.io/badge/LeetCode-My_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shlok-pandey-b27597388/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+  </a>
+</p>
 
-<br/>
+**Welcome to my LeetCode journey!** 👋
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_LINK)
-[![Java](https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
-[![Problems](https://img.shields.io/badge/Problems-131-blueviolet?style=for-the-badge&logo=leetcode)](YOUR_LEETCODE_LINK)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](YOUR_GITHUB_LINK)
-
-<br/>
-
-**Welcome to my DSA journey!** 👋
-
-*Learning, solving, optimizing and growing — one problem at a time.*
+*Consistency • Practice • Problem Solving • Growth*
 
 </div>
 
@@ -26,41 +23,46 @@
 
 ## 🧠 About This Repository
 
-This repository contains my solutions to **LeetCode Data Structures & Algorithms problems**, primarily implemented in **Java**.
+Welcome to my **LeetCode Solutions** repository!
 
-I'm using this repository to strengthen my problem-solving skills, improve algorithmic thinking and prepare for technical interviews.
+This repository contains my solutions to Data Structures and Algorithms problems on LeetCode, primarily implemented in **Java**.
+
+I'm using this repository to improve my problem-solving skills, strengthen my algorithmic thinking, understand optimized approaches, and prepare for technical interviews.
 
 ### ✨ What You'll Find Here
 
-- ☕ Java-based LeetCode solutions.
-- 🧩 Different approaches to solving problems.
-- ⚡ Optimized algorithms and efficient solutions.
-- 📚 Topic-wise problem organization.
-- 📈 A record of my continuous DSA learning journey.
+- ☕ Java solutions to LeetCode problems.
+- 🧩 Different approaches and problem-solving techniques.
+- ⚡ Optimized solutions with better time and space complexity.
+- 📚 Problems organized by DSA topics.
+- 📈 Regular updates as I solve more problems.
 
-> 💡 **My philosophy:** Don't just solve the problem. Understand the logic, analyze the complexity and learn something new.
+> **The goal is not just to solve problems, but to understand the logic behind every solution.**
 
 ---
 
-## 📊 My LeetCode Progress
+## 📊 LeetCode Progress
 
 <div align="center">
 
-| 🟢 Easy | 🟡 Medium | 🔴 Hard | 🔥 Total |
-|:---:|:---:|:---:|:---:|
-| **86** | **41** | **4** | **131** |
+| Difficulty | Problems Solved |
+|:---:|:---:|
+| 🟢 Easy | **86** |
+| 🟡 Medium | **41** |
+| 🔴 Hard | **4** |
+| **🔥 Total** | **131** |
+
+### 🎯 Target: 400+ Problems
+
+**Progress: 32.75%**
+
+<progress value="131" max="400"></progress>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Easy-86-00b8a3?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Medium-41-ffc01e?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hard-4-ef4743?style=for-the-badge" />
-
-<br/><br/>
-
-**🎯 Target: 400+ Problems**
-
-`██████░░░░░░░░░░░░░░` 32.75%
+<a href="https://leetcode.com/u/codewithshlok1403/">
+  <img src="https://img.shields.io/badge/View_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="View LeetCode"/>
+</a>
 
 </div>
 
@@ -70,15 +72,18 @@ I'm using this repository to strengthen my problem-solving skills, improve algor
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,idea,vscode,git,github&theme=dark" />
-
-<br/><br/>
-
-![Java](https://img.shields.io/badge/Java-Problem_Solving-orange?style=flat-square&logo=openjdk)
-![DSA](https://img.shields.io/badge/DSA-Learning-blue?style=flat-square)
-![LeetCode](https://img.shields.io/badge/LeetCode-Practice-yellow?style=flat-square&logo=leetcode)
+<img src="https://skillicons.dev/icons?i=java,idea,vscode,git,github" alt="Tech Stack" />
 
 </div>
+
+| Technology | Purpose |
+|---|---|
+| ☕ Java | Problem Solving & Implementation |
+| 🧩 Data Structures | Arrays, Linked Lists, Trees, Graphs |
+| ⚙️ Algorithms | Searching, Sorting, Recursion, DP |
+| 💻 VS Code / IntelliJ IDEA | Development |
+| 🐙 Git & GitHub | Version Control |
+| 🟨 LeetCode | Coding Practice |
 
 ---
 
@@ -91,53 +96,62 @@ I'm using this repository to strengthen my problem-solving skills, improve algor
 | 🔹 Two Pointers | Pair Problems, Fast & Slow Pointers |
 | 🔹 Sliding Window | Fixed & Variable Window |
 | 🔹 Binary Search | Searching, Search Space |
+| 🔹 Sorting | Merge Sort, Quick Sort |
 | 🔹 Linked Lists | Reversal, Cycle Detection |
 | 🔹 Stack & Queue | Monotonic Stack, Deque |
 | 🔹 Recursion | Backtracking, Subsets |
 | 🔹 Trees | BST, Traversals, Binary Trees |
 | 🔹 Graphs | BFS, DFS |
+| 🔹 Greedy Algorithms | Optimization Problems |
 | 🔹 Dynamic Programming | Memoization, Tabulation |
-| 🔹 Greedy | Optimization Problems |
 
 ---
 
 ## 📂 Repository Structure
 
 ```text
-📦 LeetCode-Solutions
- ┣ 📂 Arrays
- ┣ 📂 Strings
- ┣ 📂 Binary Search
- ┣ 📂 Linked List
- ┣ 📂 Stack
- ┣ 📂 Queue
- ┣ 📂 Hashing
- ┣ 📂 Recursion
- ┣ 📂 Trees
- ┣ 📂 Graph
- ┣ 📂 Dynamic Programming
- ┗ 📜 README.md
+LeetCode-Solutions/
+│
+├── Arrays/
+├── Strings/
+├── Binary Search/
+├── Linked List/
+├── Stack/
+├── Queue/
+├── Hashing/
+├── Recursion/
+├── Trees/
+├── Graph/
+├── Dynamic Programming/
+│
+└── README.md
 ```
 
 ---
 
-## ⚙️ My Problem-Solving Workflow
+## ⚙️ My Problem-Solving Approach
 
 <div align="center">
 
 ```text
        🧩 Understand the Problem
-                  ↓
+                  |
+                  v
        💭 Think of Brute Force
-                  ↓
+                  |
+                  v
        ⏱️ Analyze Complexity
-                  ↓
+                  |
+                  v
        ⚡ Find an Optimized Approach
-                  ↓
+                  |
+                  v
        ☕ Implement in Java
-                  ↓
+                  |
+                  v
        🧪 Test Edge Cases
-                  ↓
+                  |
+                  v
        🚀 Learn & Move Forward
 ```
 
@@ -145,30 +159,31 @@ I'm using this repository to strengthen my problem-solving skills, improve algor
 
 ---
 
-## 🎯 My Goals
+## 🎯 My DSA Goals
 
 - [ ] Solve 200+ LeetCode problems.
 - [ ] Solve 300+ LeetCode problems.
 - [ ] Reach 400+ LeetCode problems.
 - [ ] Master important DSA patterns.
 - [ ] Improve Time & Space Complexity analysis.
+- [ ] Learn advanced algorithms.
 - [ ] Develop strong problem-solving skills.
-- [ ] Prepare for technical interviews.
+- [ ] Prepare for software engineering interviews.
 
 ---
 
 ## 📈 My Learning Journey
 
-Every problem teaches something new.
+This repository represents my continuous journey of learning Data Structures and Algorithms.
 
-Through this repository, I'm working on:
+I'm focusing on:
 
 - Building strong DSA fundamentals.
 - Developing logical and analytical thinking.
+- Understanding multiple approaches to problems.
 - Writing clean and readable Java code.
-- Understanding multiple approaches.
-- Improving code efficiency.
-- Becoming consistent with daily practice.
+- Improving time and space complexity.
+- Maintaining consistency in coding practice.
 
 <div align="center">
 
@@ -182,9 +197,13 @@ Through this repository, I'm working on:
 
 This is primarily my personal learning repository.
 
-If you find a better approach, optimization or any mistake, feel free to open an Issue or submit a Pull Request.
+If you find a better approach, optimization, or any mistake in my solutions, feel free to:
 
-I'm always open to learning and improving!
+- Open an Issue.
+- Suggest an improvement.
+- Submit a Pull Request.
+
+I'm always open to learning better approaches! 🙌
 
 ---
 
@@ -202,24 +221,32 @@ I'm always open to learning and improving!
 
 🤖 Interested in Artificial Intelligence & Machine Learning
 
+💡 Passionate about learning new technologies and improving problem-solving skills.
+
 </div>
 
 ---
 
-## 🔗 Let's Connect
+## 🔗 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_LINK)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_LINK)
+<a href="https://www.linkedin.com/in/shlok-pandey-b27597388/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect_with_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
-<br/>
+<a href="https://leetcode.com/u/codewithshlok1403/">
+  <img src="https://img.shields.io/badge/LeetCode-Follow_My_Journey-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 ### ⭐ If you find this repository useful, consider giving it a Star!
 
-**Thanks for visiting! Keep Coding. Keep Learning. Keep Growing. 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+**Keep Coding. Keep Learning. Keep Improving. 🚀**
 
 </div>
