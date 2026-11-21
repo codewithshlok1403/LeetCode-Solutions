@@ -48,9 +48,9 @@ I'm using this repository to improve my problem-solving skills, strengthen my al
 | Difficulty | Problems Solved |
 |:---:|:---:|
 | 🟢 Easy | **86** |
-| 🟡 Medium | **41** |
+| 🟡 Medium | **43** |
 | 🔴 Hard | **4** |
-| **🔥 Total** | **131** |
+| **🔥 Total** | **133** |
 
 ### 🎯 Target: 400+ Problems
 
