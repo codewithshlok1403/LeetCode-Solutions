@@ -47,10 +47,10 @@ I'm using this repository to improve my problem-solving skills, strengthen my al
 
 | Difficulty | Problems Solved |
 |:---:|:---:|
-| 🟢 Easy | **86** |
+| 🟢 Easy | **87** |
 | 🟡 Medium | **43** |
 | 🔴 Hard | **4** |
-| **🔥 Total** | **133** |
+| **🔥 Total** | **134** |
 
 ### 🎯 Target: 400+ Problems
 
