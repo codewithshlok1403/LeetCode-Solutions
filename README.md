@@ -35,7 +35,7 @@ I'm using this repository to improve my problem-solving skills, strengthen my al
 - 🧩 Different approaches and problem-solving techniques.
 - ⚡ Optimized solutions with better time and space complexity.
 - 📚 Problems organized by DSA topics.
-- 📈 Regular updates as I solve more problems
+- 📈 Regular updates as I solve more problems.
 - 
 > **The goal is not just to solve problems, but to understand the logic behind every solution.**
 
