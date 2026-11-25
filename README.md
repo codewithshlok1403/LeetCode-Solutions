@@ -201,7 +201,7 @@ If you find a better approach, optimization, or any mistake in my solutions, fee
 
 - Open an Issue.
 - Suggest an improvement.
-- Submit a Pull Request.
+- Submit a Pull Request
 
 I'm always open to learning better approaches! 🙌
 
